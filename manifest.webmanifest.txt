@@ -1,0 +1,21 @@
+{
+  "name": "طنین و شب‌تاب — بازی‌های مرورگری",
+  "short_name": "طنین و شب‌تاب",
+  "description": "دو بازی مرورگری فارسی، رایگان و آفلاین.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050913",
+  "theme_color": "#0b1026",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
